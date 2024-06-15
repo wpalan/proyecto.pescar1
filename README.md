@@ -1,1 +1,1 @@
-# proyecto.pescar1
+Proyecto hecho con Tailwind y NextJS (react)
